@@ -1,6 +1,7 @@
 module github.com/hatchet-dev/hatchet
 
-go 1.23.0
+go 1.24.0
+
 toolchain go1.24.1
 
 require (
@@ -124,7 +125,7 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/exaring/otelpgx v0.9.1
+	github.com/exaring/otelpgx v0.9.2
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/getsentry/sentry-go v0.32.0
 	github.com/go-chi/chi v1.5.5
