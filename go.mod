@@ -27,7 +27,7 @@ require (
 	github.com/pingcap/errors v0.11.4
 	github.com/posthog/posthog-go v1.6.13
 	github.com/shopspring/decimal v1.4.0
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	github.com/steebchen/prisma-client-go v0.47.0
 	github.com/tink-crypto/tink-go v0.0.0-20230613075026-d6de17e3f164
