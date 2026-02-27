@@ -20,7 +20,7 @@ require (
 	github.com/jackc/puddle/v2 v2.2.2
 	github.com/joho/godotenv v1.5.1
 	github.com/labstack/echo/v4 v4.15.1
-	github.com/oapi-codegen/runtime v1.1.2
+	github.com/oapi-codegen/runtime v1.2.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/pingcap/errors v0.11.4
 	github.com/posthog/posthog-go v1.10.0
