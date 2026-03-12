@@ -126,7 +126,7 @@ require (
 	github.com/getsentry/sentry-go v0.43.0
 	github.com/go-chi/chi v1.5.5
 	github.com/go-playground/validator/v10 v10.30.1
-	github.com/goccy/go-json v0.10.5
+	github.com/goccy/go-json v0.10.6
 	github.com/google/cel-go v0.27.0
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/schema v1.4.1
