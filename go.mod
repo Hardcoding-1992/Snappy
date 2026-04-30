@@ -3,7 +3,7 @@ module github.com/hatchet-dev/hatchet
 go 1.26.0
 
 require (
-	github.com/Masterminds/semver/v3 v3.4.0
+	github.com/Masterminds/semver/v3 v3.5.0
 	github.com/creasty/defaults v1.8.0
 	github.com/fatih/color v1.19.0
 	github.com/getkin/kin-openapi v0.137.0
