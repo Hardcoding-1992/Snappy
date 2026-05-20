@@ -38,7 +38,7 @@ require (
 	go.uber.org/goleak v1.3.0
 	golang.org/x/exp v0.0.0-20240823005443-9b4947da3948
 	golang.org/x/time v0.15.0
-	google.golang.org/api v0.279.0
+	google.golang.org/api v0.280.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20260401024825-9d38bb4040a9
 	k8s.io/api v0.36.1
 	k8s.io/apimachinery v0.36.1
@@ -150,12 +150,12 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/subosito/gotenv v1.6.0 // indirect
 	golang.org/x/crypto v0.51.0
-	golang.org/x/net v0.53.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
 	golang.org/x/oauth2 v0.36.0
 	golang.org/x/sync v0.20.0
 	golang.org/x/sys v0.44.0 // indirect
 	golang.org/x/text v0.37.0
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260427160629-7cedc36a6bc4 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260511170946-3700d4141b60 // indirect
 	google.golang.org/grpc v1.81.1
 	google.golang.org/protobuf v1.36.12-0.20260120151049-f2248ac996af
 	gopkg.in/yaml.v3 v3.0.1
