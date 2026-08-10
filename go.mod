@@ -38,7 +38,7 @@ require (
 	go.uber.org/goleak v1.3.0
 	golang.org/x/exp v0.0.0-20240823005443-9b4947da3948
 	golang.org/x/time v0.15.0
-	google.golang.org/api v0.291.0
+	google.golang.org/api v0.292.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20260803160001-6ac0973c030d
 	k8s.io/api v0.36.3
 	k8s.io/apimachinery v0.36.3
